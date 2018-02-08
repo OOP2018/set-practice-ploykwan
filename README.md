@@ -16,13 +16,20 @@ See [Collections-practice](https://skeoop.github.io/week4/Collections-practice) 
 Answer the questions in the exercises here. Push your answer and code to Github Classroom.
 
 * When you print elements in the set, are they in same order as you added them?
+No, the set was not order by user added.
 
 * what is the command to remove all elements from a `set`?
+set.clear();
 
 * When you add elements in a different order and print them, did the order change?
+Yes, the set is change.
 
 * Can you add a duplicate "cat" and "dog" to set?
+No.
+
 
 * What is the result when you use TreeSet instead of HashSet?
+The set is order by alphabet a-z.
 
 * Could we make `setExplorer` work with either Set or List?  How?
+Yes, by using Collection.
